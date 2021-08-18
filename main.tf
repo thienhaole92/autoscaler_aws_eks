@@ -7,3 +7,4 @@ module "vpc" {
   cidr = var.cidr
   azs = data.aws_availability_zones.available.names
 }
+
