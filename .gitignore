@@ -35,3 +35,5 @@ terraform.rc
 
 # idea
 .idea
+
+kubeconfig_hl-labs-eks-cluster
